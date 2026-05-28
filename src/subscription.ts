@@ -16,10 +16,10 @@ apps.forEach((appConfig) => {
 });
 
 export default defineGkdSubscription({
-  id: 233,
+  id: 911,
   name: 'Subscription',
   version: 0,
-  author: 'author',
+  author: 'Breath0503',
   checkUpdateUrl: './gkd.version.json5',
   supportUri:
     'https://github.com/Breathe0503/GKD_subscription/issues/new/choose',
